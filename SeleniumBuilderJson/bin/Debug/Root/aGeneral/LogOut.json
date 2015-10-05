@@ -1,0 +1,31 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 2,
+  "steps": [
+    
+    
+    
+    {
+      "type": "verifyTextPresent",
+	  "locator": {
+        "type": "id",
+        "value": "logoutListItem"
+      },
+      "text": "Logout"
+    },
+	{
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "logoutListItem"
+      }
+    }
+  ],
+  "data": {
+    "configs": {},
+    "source": "none"
+  },
+  "inputs": [],
+  "timeoutSeconds": 60
+}

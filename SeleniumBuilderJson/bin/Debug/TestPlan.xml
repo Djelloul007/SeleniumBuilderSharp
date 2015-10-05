@@ -1,0 +1,8 @@
+<ROOT>
+  <TreeViewNode value="TestPlan">
+    <TreeViewNode value="TestCase001">
+      <TreeViewNode value="Debug\Root\aGeneral\BMLogin.json" />
+      <TreeViewNode value="Debug\Root\aGeneral\BMLogOut.json" />
+    </TreeViewNode>
+  </TreeViewNode>
+</ROOT>
